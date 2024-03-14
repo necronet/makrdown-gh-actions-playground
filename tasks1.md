@@ -1,6 +1,6 @@
 ---
 title: Transfering and Now what is doing with agood title
-datatype: I have no idea now this is gonna work for sure
+datatype: I have no idea now this is gonnwhen is this gonna work
 sources:  todo sources is going here
 destinations: ["Google Sheet", "Things", "Download myself"]
 ---
