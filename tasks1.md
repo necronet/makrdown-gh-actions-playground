@@ -1,5 +1,5 @@
 ---
-title: Transfering and exporting Todoist tasks
+title: Transfering and exporting
 datatype: I have no idea what data toy this is gonna be 
 sources:  todo sources is going here
 destinations: ["Google Sheet", "Things", "Download myself"]
