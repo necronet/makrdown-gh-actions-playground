@@ -1,6 +1,6 @@
 ---
 title: Transfering and exporting Todoist tasks
-datatype: Now a new data type
+datatype: I have no idea what data toy this is gonna be 
 sources: Todoist
 destinations: ["Google Sheet", "Things", "Download myself"]
 ---
