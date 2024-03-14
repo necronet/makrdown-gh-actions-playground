@@ -1,5 +1,5 @@
 ---
-title: Transfering and exporting Todoist tasks
+title: Trasfering task for md files
 datatype: I have no idea what data toy this is gonna be 
 sources: Todoist
 destinations: ["Google Sheet", "Things", "Download myself"]
